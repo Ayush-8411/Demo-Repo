@@ -1,4 +1,4 @@
 # Demo-Repo
 my first repo
 <br>
-Author - Ayush
+Author - Ayush Raj
